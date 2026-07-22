@@ -1,4 +1,6 @@
-## Hi there 👋
+<img width="1280" height="849" alt="1000025414" src="https://github.com/user-attachments/assets/6271de1e-f06a-4179-8b6a-211724734b8f" />
+
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=felinyx&label=𝓕&color=FFDCB6)
 
 <!--
 **felinyx/felinyx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

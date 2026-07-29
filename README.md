@@ -1,6 +1,8 @@
-<img width="360" height="240" alt="1000025530" src="https://github.com/user-attachments/assets/6c04352e-21da-4e8f-9539-56f2f9db28d4" />
+<img width="400" height="225" alt="1000025645" src="https://github.com/user-attachments/assets/136dbf0c-dae1-4da7-a148-3e0028572f3f" />
 
 
 
 
-ㅤ ㅤ ㅤㅤ ㅤ ㅤ ㅤ ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=felinyx&label=ᓚᘏᗢ&color=ff78cb)
+
+
+ㅤ ㅤ ㅤㅤ ㅤ ㅤ ㅤ ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=felinyx&label=ᓚᘏᗢ&color=545ed6)

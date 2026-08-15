@@ -1,8 +1,10 @@
-<img width="400" height="225" alt="1000025645" src="https://github.com/user-attachments/assets/136dbf0c-dae1-4da7-a148-3e0028572f3f" />
+<img width="1200" height="798" alt="1000026558" src="https://github.com/user-attachments/assets/6ab98761-8b95-4ad7-8053-fe11cbb2cc8c" />
 
 
 
 
 
 
-ㅤ ㅤ ㅤㅤ ㅤ ㅤ ㅤ ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=felinyx&label=ᓚᘏᗢ&color=545ed6)
+
+
+ㅤ ㅤ ㅤㅤ ㅤ ㅤ ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=felinyx&label=presidentialballot&color=b5c4c7)
